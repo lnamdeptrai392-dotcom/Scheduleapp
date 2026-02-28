@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">prj1</string>
+    <string name="Title_Schedule">TextView</string>
+    <string name="schedule">Schedule</string>
+</resources>
